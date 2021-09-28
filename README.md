@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Ícaro Oliveira👋</h1>
-<p align="justify">Formado em Técnico de Informática, com foco em desenvolvimento de software, apaixonado por Tech e na capacidade de transformação que ela possui dentro da sociedade. Em busca de experiência com projetos, capaz de aprender novas tecnologias e aberto para adquirir mais conhecimento.</p>
+<p align="center">Formado em Técnico de Informática, com foco em desenvolvimento de software, apaixonado por Tech e na capacidade de transformação que ela possui dentro da sociedade. Em busca de experiência com projetos, capaz de aprender novas tecnologias e aberto para adquirir mais conhecimento.</p>
 
 - 🌱 I’m currently learning **Typescript, Docker e Python.**
 
