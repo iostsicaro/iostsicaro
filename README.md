@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Ícaro Oliveira👋</h1>
-<h3 align="justify">Formado em Técnico de Informática, com foco em desenvolvimento de software, apaixonado por Tech e na capacidade de transformação que ela possui dentro da sociedade. Em busca de experiência com projetos, capaz de aprender novas tecnologias e aberto para adquirir mais conhecimento.</h3>
+<p align="justify">Formado em Técnico de Informática, com foco em desenvolvimento de software, apaixonado por Tech e na capacidade de transformação que ela possui dentro da sociedade. Em busca de experiência com projetos, capaz de aprender novas tecnologias e aberto para adquirir mais conhecimento.</p>
 
 - 🌱 I’m currently learning **Typescript, Docker e Python.**
 
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iostsicaro&show_icons=true&theme=dark&locale=en&layout=compact" alt="iostsicaro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iostsicaro&show_icons=true&theme=dark&locale=en" alt="iostsicaro" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iostsicaro&theme=dark" alt="iostsicaro" /></p>
