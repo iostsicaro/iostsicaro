@@ -6,7 +6,6 @@
 - 💬 Ask me about **Node.js, API Rest, Angular, React.js e Bando de Dados.**
 
 - 📫 How to reach me **iostsicaro@gmail.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
