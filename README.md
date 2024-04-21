@@ -1,13 +1,12 @@
 <h1 align="center">Oi, meu nome é Ícaro Oliveira👋</h1>
 <p align="center">Formado em Técnico de Informática, com foco em desenvolvimento de software, apaixonado por Tech e na capacidade de transformação que ela possui dentro da sociedade. Em busca de experiência com projetos, capaz de aprender novas tecnologias e aberto para adquirir mais conhecimento. Se quiser, fica à vontade pra entrar em contato comigo à respeito de participações em projetos ou qualquer tipo de dúvidas :))</p>
 
-- 🌱 I’m currently learning **Typescript, Docker e Python.**
+- 🌱 I’m currently learning **Python, Django, Java and Angular.**
 
-- 💬 Ask me about **Node.js, API Rest, React.js e Bando de Dados.**
+- 💬 Ask me about **Node.js, API Rest, Angular, React.js e Bando de Dados.**
 
 - 📫 How to reach me **iostsicaro@gmail.com**
-
-- ⚡ Fun fact **Eu quase me afogava dormindo numa boia alugada.**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
