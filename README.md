@@ -1,5 +1,4 @@
-<h1 align="center">Oi, meu nome é Ícaro Oliveira👋</h1>
-<p align="center">Formado em Técnico de Informática, com foco em desenvolvimento de software, apaixonado por Tech e na capacidade de transformação que ela possui dentro da sociedade. Em busca de experiência com projetos, capaz de aprender novas tecnologias e aberto para adquirir mais conhecimento. Se quiser, fica à vontade pra entrar em contato comigo à respeito de participações em projetos ou qualquer tipo de dúvidas :))</p>
+# Hey 👋, I'm Ícaro Santos!
 
 - 🌱 I’m currently learning **Python, Django, Java and Angular.**
 
