@@ -1,22 +1,33 @@
-# Hey 👋, I'm Ícaro Santos!
+# Hey, I'm Ícaro Santos! 👋
 
-- 🌱 I’m currently learning **Python, Django, Java and Angular.**
+### Frontend Developer | Angular | TypeScript | Java | SpringBoot
 
-- 💬 Ask me about **Node.js, API Rest, Angular, React.js e Bando de Dados.**
+I'm a Software Developer currently working at **Accenture**, with experience in frontend and full stack development.
 
-- 📫 How to reach me **iostsicaro@gmail.com**
+Throughout my career, I've worked with web applications, REST APIs, dashboards, and software solutions using different technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/santosicaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosicaro" height="30" width="40" /></a>
+### 💻 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Frontend:** Angular, TypeScript, JavaScript, React, HTML, CSS, SCSS, Bootstrap, PrimeNG.
 
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
+**Backend:** Java, Spring Boot, Node.js, Express.
 
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+**Database:** PostgreSQL, MySQL, MongoDB.
 
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+**Tools:** Git, GitLab, Azure DevOps, Jira, Swagger.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iostsicaro&show_icons=true&theme=dark&locale=en&layout=compact" alt="iostsicaro" /> &nbsp;</p>
+### 💼 Professional Journey
+
+- **Accenture** — Frontend Developer (2026 – Present)
+- **Info Tecnologia | Gestão Locadora de Veículos** — Analista de Programação Pleno III (2024 – 2025)
+- **Ford - GI Group Brasil** — Software Analyst B (2021 – 2024)
+- **Cubos Academy** - Monitor && Entrevistador Técnico (2021 - 2023)
+
+### 🌱 Currently Learning
+
+Exploring new technologies, improving software engineering skills, and building personal projects to keep learning and sharing knowledge.
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/santosicaro/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iostsicaro@gmail.com)
